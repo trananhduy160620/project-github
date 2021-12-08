@@ -20,5 +20,12 @@ class DetailViewController: UIViewController {
     
     private func getDataFromMainViewController() {
         // write code here
+        
+        // have a bug here
+        // we will fix this bug
+        /*
+            solution 1: .....
+            solution 2: .....
+         */
     }
 }
