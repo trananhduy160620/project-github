@@ -210,7 +210,6 @@
 				3AD0390227611B4400672D75 /* SceneDelegate.swift in Sources */,
 				3AD83681276122BD008E5D03 /* VideoViewController.swift in Sources */,
 				3AD8367A2761202D008E5D03 /* DetailViewController.swift in Sources */,
-				3AD83688276123CC008E5D03 /* FavoriteViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
