@@ -15,8 +15,13 @@
 		3AD8366E27611D0E008E5D03 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AD8366C27611D0E008E5D03 /* MainViewController.xib */; };
 		3AD8367A2761202D008E5D03 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD836782761202D008E5D03 /* DetailViewController.swift */; };
 		3AD8367B2761202D008E5D03 /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AD836792761202D008E5D03 /* DetailViewController.xib */; };
+<<<<<<< HEAD
 		3AD83681276122BD008E5D03 /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD8367F276122BD008E5D03 /* VideoViewController.swift */; };
 		3AD83682276122BD008E5D03 /* VideoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AD83680276122BD008E5D03 /* VideoViewController.xib */; };
+=======
+		3AD83688276123CC008E5D03 /* FavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD83686276123CC008E5D03 /* FavoriteViewController.swift */; };
+		3AD83689276123CC008E5D03 /* FavoriteViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AD83687276123CC008E5D03 /* FavoriteViewController.xib */; };
+>>>>>>> feature/#06-build-favorite-view-controller
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +35,13 @@
 		3AD8366C27611D0E008E5D03 /* MainViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
 		3AD836782761202D008E5D03 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		3AD836792761202D008E5D03 /* DetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailViewController.xib; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		3AD8367F276122BD008E5D03 /* VideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoViewController.swift; sourceTree = "<group>"; };
 		3AD83680276122BD008E5D03 /* VideoViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VideoViewController.xib; sourceTree = "<group>"; };
+=======
+		3AD83686276123CC008E5D03 /* FavoriteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteViewController.swift; sourceTree = "<group>"; };
+		3AD83687276123CC008E5D03 /* FavoriteViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FavoriteViewController.xib; sourceTree = "<group>"; };
+>>>>>>> feature/#06-build-favorite-view-controller
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +87,11 @@
 			children = (
 				3AD8366B27611D0E008E5D03 /* MainViewController.swift */,
 				3AD836782761202D008E5D03 /* DetailViewController.swift */,
+<<<<<<< HEAD
 				3AD8367F276122BD008E5D03 /* VideoViewController.swift */,
+=======
+				3AD83686276123CC008E5D03 /* FavoriteViewController.swift */,
+>>>>>>> feature/#06-build-favorite-view-controller
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -87,7 +101,11 @@
 			children = (
 				3AD8366C27611D0E008E5D03 /* MainViewController.xib */,
 				3AD836792761202D008E5D03 /* DetailViewController.xib */,
+<<<<<<< HEAD
 				3AD83680276122BD008E5D03 /* VideoViewController.xib */,
+=======
+				3AD83687276123CC008E5D03 /* FavoriteViewController.xib */,
+>>>>>>> feature/#06-build-favorite-view-controller
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -171,7 +189,11 @@
 				3AD0390C27611B4A00672D75 /* LaunchScreen.storyboard in Resources */,
 				3AD8366E27611D0E008E5D03 /* MainViewController.xib in Resources */,
 				3AD0390927611B4A00672D75 /* Assets.xcassets in Resources */,
+<<<<<<< HEAD
 				3AD83682276122BD008E5D03 /* VideoViewController.xib in Resources */,
+=======
+				3AD83689276123CC008E5D03 /* FavoriteViewController.xib in Resources */,
+>>>>>>> feature/#06-build-favorite-view-controller
 				3AD8367B2761202D008E5D03 /* DetailViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -188,6 +210,7 @@
 				3AD0390227611B4400672D75 /* SceneDelegate.swift in Sources */,
 				3AD83681276122BD008E5D03 /* VideoViewController.swift in Sources */,
 				3AD8367A2761202D008E5D03 /* DetailViewController.swift in Sources */,
+				3AD83688276123CC008E5D03 /* FavoriteViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
