@@ -12,4 +12,12 @@ class MainViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     }
+    
+    private func setupNavigationBar() {
+        // write code here
+    }
+    
+    private func loadDataCategory() {
+        // write code here
+    }
 }
