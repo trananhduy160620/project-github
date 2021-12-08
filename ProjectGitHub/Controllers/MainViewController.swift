@@ -19,5 +19,13 @@ class MainViewController: UIViewController {
     
     private func loadDataCategory() {
         // write code here
+        // have a bug here
+        // we will fix this bug
+        /*
+            solution 1: .....
+            solution 2: .....
+            solution 3: .....
+            solution 4: .....
+         */
     }
 }
