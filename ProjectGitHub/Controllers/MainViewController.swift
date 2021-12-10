@@ -11,6 +11,8 @@ class MainViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        testingConflict()
     }
     
     private func setupNavigationBar() {
@@ -27,5 +29,10 @@ class MainViewController: UIViewController {
             solution 3: .....
             solution 4: .....
          */
+    }
+    
+    func testingConflict() {
+        //hahahahaha
+        //hehehehe
     }
 }
