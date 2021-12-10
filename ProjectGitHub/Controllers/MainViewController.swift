@@ -18,6 +18,7 @@ class MainViewController: UIViewController {
     private func setupNavigationBar() {
         // write code here
         // write code here
+        // write code here
     }
     
     private func loadDataCategory() {
