@@ -27,5 +27,7 @@ class DetailViewController: UIViewController {
             solution 1: .....
             solution 2: .....
          */
+        
+        // write code here
     }
 }
