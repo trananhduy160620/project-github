@@ -17,8 +17,12 @@ class MainViewController: UIViewController {
     
     private func setupNavigationBar() {
         // write code here
+
         // write code here
         // write code here
+        // hehehehe
+        // hahahahahaha
+
     }
     
     private func loadDataCategory() {
@@ -36,5 +40,6 @@ class MainViewController: UIViewController {
     func testingConflict() {
         //hahahahaha
         //hehehehe
+        // hohohoho
     }
 }
